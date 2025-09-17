@@ -15,7 +15,7 @@ void copy_array_float(float from[], float to[], int size) {
 // 코드 테스트
 #ifndef TEST
 int test_print_array_float() {
-
+	//test
 }
 
 int Test_copy_array_float() {
